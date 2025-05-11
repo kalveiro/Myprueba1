@@ -1,3 +1,6 @@
 Archivo de ejercicio numetro tres.
 
-Guardado en otro directorio pero que se puede cargar a la plataforma de github para compartirlo con otros usuarios
+Guardado en otro directorio pero que se puede cargar a la plataforma de github para compartirlo con otros usuarios.
+
+De esta manera, esta modificiacion de texto se realizo despues de cargar este achivo ahora en mi directorio 
+Kalveiro>repogit>Myprueba1 local.
