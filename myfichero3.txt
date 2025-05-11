@@ -1,0 +1,3 @@
+Archivo de ejercicio numetro tres.
+
+Guardado en otro directorio pero que se puede cargar a la plataforma de github para compartirlo con otros usuarios
