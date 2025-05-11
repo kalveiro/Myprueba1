@@ -2,3 +2,5 @@ Fichero2 de prueba para el repositorio Myprueba1 en github.
 
 07/may/2025
 
+Actualice este texto desde el repositorio remoto para que lo pueda revisar ahora en el repositorio local.
+10/05/25
